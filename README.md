@@ -36,4 +36,4 @@ It also includes my downloadable CV and multiple ways to contact me.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/alexngurecoder/portfolio.git
+   git clone https://github.com/alexngurecoder/Portfolio.git
